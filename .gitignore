@@ -1,0 +1,10 @@
+/node_modules
+/dist
+coverage
+
+
+
+.env.*
+
+*.lock
+*lock.yaml
